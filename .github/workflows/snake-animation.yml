@@ -1,0 +1,43 @@
+name: Generate Contribution Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Run at midnight UTC daily
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Ensure Output Directory Exists
+        run: mkdir -p assets/gifs
+        
+      - name: Move Generated Files
+        run: |
+          cp dist/github-contribution-grid-snake.svg assets/gifs/
+          cp dist/github-contribution-grid-snake-dark.svg assets/gifs/ 2>/dev/null || true
+          cp dist/github-contribution-grid-snake-light.svg assets/gifs/ 2>/dev/null || true
+          
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🐍 chore: update contribution snake animation"
+          file_pattern: "assets/gifs/*.svg"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
