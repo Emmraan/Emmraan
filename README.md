@@ -124,8 +124,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
-
-<details>
 <summary><b>🤖 AI/ML & Data Science</b></summary>
 <br>
 
@@ -135,9 +133,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-</details>
-
-<details>
 <summary><b>🛠️ Tools & Platforms</b></summary>
 <br>
 
@@ -177,11 +172,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
         <img src="https://streak-stats.demolab.com?user=Emmraan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF00FF&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=FF00FF" alt="GitHub Streak" width="400">
       </a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Emmraan">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Emmraan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400">
-      </a>
-    </td>
   </tr>
 </table>
 
@@ -202,24 +192,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
         <source media="(prefers-color-scheme: light)" srcset="assets/gifs/github-contribution-grid-snake-light.svg">
         <img src="assets/gifs/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="800">
       </picture>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Emmraan">
-        <img src="https://github-profile-trophy.vercel.app/?username=Emmraan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Profile Trophies" width="800">
-      </a>
     </td>
   </tr>
 </table>
