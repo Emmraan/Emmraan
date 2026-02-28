@@ -172,21 +172,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
   </tr>
 </table>
 
-<!-- GitHub Stats using Alternative Instance -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Emmraan">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Emmraan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Statistics" width="400">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Emmraan">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Emmraan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Programming Languages" width="400">
-      </a>
-    </td>
-  </tr>
-</table>
 
 <!-- GitHub Streak Stats -->
 <table width="100%">
@@ -224,22 +209,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Emmraan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Profile Trophies" width="800">
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 📈 Contribution Distribution
 
 <div align="center">
@@ -264,34 +233,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 3. ⭐ Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)<br>
 4. ⭐ Starred [decolua/9router](https://github.com/decolua/9router)<br>
 5. ⭐ Starred [get-convex/convex-backend](https://github.com/get-convex/convex-backend)<br>
-<!--RECENT_ACTIVITY:end-->
-
----
-
-<!-- 🌟 Featured Projects Section - Uncomment when you have projects to showcase
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Emmraan/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emmraan&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF" alt="Featured Project 1">
-</a>
-<a href="https://github.com/Emmraan/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emmraan&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF" alt="Featured Project 2">
-</a>
-
-</div>
-
----
--->
-
-<!-- Placeholder for future featured projects -->
-<div align="center">
-
-*🚀 Exciting projects coming soon! Check out my repositories below.*
-
-</div>
 
 ---
 
