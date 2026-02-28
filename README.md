@@ -1,15 +1,27 @@
 <div align="center">
   
   <!-- Animated Header Banner -->
-  <img src="assets/svg/header-banner.svg" alt="Welcome to Emmraan's GitHub Profile - Full Stack Vibe Coder" width="100%">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <img src="assets/svg/header-banner.svg" alt="Welcome to Emmraan's GitHub Profile - Full Stack Vibe Coder" width="100%" style="max-width: 1200px;">
+      </td>
+    </tr>
+  </table>
   
   <!-- Typing Effect Introduction -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Vibe+Coder;AI%2FML+Enthusiast;Cloud+Architecture+Specialist;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG - Full Stack Vibe Coder, AI/ML Enthusiast, Cloud Architect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Vibe+Coder;AI%2FML+Enthusiast;Cloud+Architecture+Specialist;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG" />
   </a>
   
   <!-- Animated Wave Divider -->
-  <img src="assets/svg/wave-divider.svg" alt="" width="100%" height="60">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <img src="assets/svg/wave-divider.svg" alt="" width="100%" height="60" style="max-width: 1200px;">
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -162,20 +174,32 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 <!-- GitHub Stats Cards -->
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Emmraan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Emmraan's GitHub Statistics showing commits, PRs, issues, and contributions" height="180">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Emmraan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" alt="Emmraan's GitHub Statistics" width="400">
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmraan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Emmraan's Top Programming Languages" height="180">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmraan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Emmraan's Top Programming Languages" width="400">
     </td>
   </tr>
 </table>
 
 <!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Emmraan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF00FF&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=FF00FF" alt="Emmraan's GitHub Contribution Streak" width="100%">
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Emmraan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF00FF&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=FF00FF" alt="Emmraan's GitHub Contribution Streak" width="800">
+    </td>
+  </tr>
+</table>
 
 <!-- Detailed Metrics -->
-<img src="assets/images/metrics.svg" alt="Comprehensive GitHub metrics including achievements, activity, and language statistics" width="100%">
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="assets/images/metrics.svg" alt="Comprehensive GitHub metrics" width="800">
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -186,11 +210,17 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 <div align="center">
 
 <!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/gifs/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/gifs/github-contribution-grid-snake-light.svg">
-  <img alt="GitHub contribution snake animation showing coding activity pattern" src="assets/gifs/github-contribution-grid-snake.svg" width="100%" loading="lazy">
-</picture>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/gifs/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/gifs/github-contribution-grid-snake-light.svg">
+        <img alt="GitHub contribution snake animation" src="assets/gifs/github-contribution-grid-snake.svg" width="800">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -200,7 +230,13 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Emmraan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Profile Trophies" loading="lazy">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Emmraan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Profile Trophies" width="800">
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -210,7 +246,13 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Emmraan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repositories" loading="lazy">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Emmraan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repositories" width="600">
+    </td>
+  </tr>
+</table>
 
 </div>
 
