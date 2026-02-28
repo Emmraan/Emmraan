@@ -11,7 +11,7 @@
   
   <!-- Typing Effect Introduction -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Vibe+Coder;AI%2FML+Enthusiast;Cloud+Architecture+Specialist;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Vibe+Coder;AI%2FML+Enthusiast;Cloud+Architecture+Specialist;Open+Source+Contributor" alt="Typing SVG" />
   </a>
   
   <!-- Animated Wave Divider -->
