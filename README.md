@@ -1,44 +1,52 @@
-<p align="center">
-
-  <!-- Banner -->
-  <img src="https://raw.githubusercontent.com/Emmraan/Emmraan/main/assets/svg/header-banner.svg" 
-       alt="Banner" width="100%" />
-
-  <br><br>
-
-  <!-- Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Vibe+Coder;AI%2FML+Enthusiast;Cloud+Architecture+Specialist;Open+Source+Contributor" />
-
-  <br><br>
-
-  <!-- Wave -->
-  <img src="https://raw.githubusercontent.com/Emmraan/Emmraan/main/assets/svg/wave-divider.svg" 
-       width="100%" />
-
-</p>
-
-<!-- Social Links with Custom Styling -->
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/md-emran-79302b2b1/)
-  <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/emmraan) -->
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/https.aatsan.ig)
-  <!-- [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A)](https://dev.to/emmraan) -->
-  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722)](https://emmraan.dev) -->
-  <!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:emmraan@example.com) -->
 
-</div>
+<!-- Animated Header Banner -->
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="assets/svg/header-banner.svg" alt="Welcome to Emmraan's GitHub Profile" width="800">
+    </td>
+  </tr>
+</table>
+
+<!-- Typing Effect Introduction -->
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Vibe+Coder;AI%2FML+Enthusiast;Cloud+Architect;Open+Source+Contributor" alt="Typing Animation">
+    </td>
+  </tr>
+</table>
 
 <!-- Profile Views Counter -->
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=Emmraan&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
-  
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=Emmraan&style=for-the-badge&color=00D9FF" alt="Profile Views">
+    </td>
+  </tr>
+</table>
+
+<!-- Social Links -->
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/md-emran-79302b2b1/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://instagram.com/https.aatsan.ig">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
+> 💡 *"Code is poetry written in logic"*
 
 ```typescript
 const emmraan = {
@@ -70,7 +78,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 
 ## 🛠️ Tech Stack
 
-<details>
 <summary><b>🎨 Frontend Development</b></summary>
 <br>
 
@@ -85,9 +92,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=white)
 
-</details>
-
-<details>
 <summary><b>⚙️ Backend Development</b></summary>
 <br>
 
@@ -98,9 +102,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
 
-</details>
-
-<details>
 <summary><b>🗄️ Databases & Storage</b></summary>
 <br>
 
@@ -111,9 +112,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-</details>
-
-<details>
 <summary><b>☁️ Cloud & DevOps</b></summary>
 <br>
 
@@ -126,7 +124,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
-</details>
 
 <details>
 <summary><b>🤖 AI/ML & Data Science</b></summary>
@@ -155,8 +152,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
-</details>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -167,18 +162,24 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="assets/images/metrics.svg" alt="Comprehensive GitHub metrics including stats, languages, and activity" width="800">
+      <a href="https://github.com/Emmraan">
+        <img src="assets/images/metrics.svg" alt="Comprehensive GitHub metrics including stats, languages, and activity" width="800">
+      </a>
     </td>
   </tr>
 </table>
 
-
-<!-- GitHub Streak Stats -->
+<!-- GitHub Stats & Streak - Using Reliable Alternative -->
 <table width="100%">
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/Emmraan">
-        <img src="https://streak-stats.demolab.com?user=Emmraan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF00FF&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=FF00FF" alt="GitHub Contribution Streak" width="800">
+        <img src="https://streak-stats.demolab.com?user=Emmraan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF00FF&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=FF00FF" alt="GitHub Streak" width="400">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Emmraan">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Emmraan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400">
       </a>
     </td>
   </tr>
@@ -199,8 +200,26 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/gifs/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="assets/gifs/github-contribution-grid-snake-light.svg">
-        <img alt="GitHub contribution snake animation" src="assets/gifs/github-contribution-grid-snake.svg" width="800">
+        <img src="assets/gifs/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="800">
       </picture>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Emmraan">
+        <img src="https://github-profile-trophy.vercel.app/?username=Emmraan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Profile Trophies" width="800">
+      </a>
     </td>
   </tr>
 </table>
@@ -213,10 +232,12 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=Emmraan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repositories" width="600">
+      <a href="https://github.com/Emmraan">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Emmraan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repositories" width="600">
+      </a>
     </td>
   </tr>
 </table>
@@ -255,7 +276,11 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontAlignY=75&text=Happy%20Coding!&fontSize=30&fontColor=FFFFFF&gradientColors=00D9FF,FF00FF,FFD700" alt="Footer - Happy Coding" width="100%">
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Happy%20Coding!&fontSize=30" />
+</p>
 
 **⭐ Star some repositories if you find them interesting! ⭐**
 
