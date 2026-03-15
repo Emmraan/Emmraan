@@ -221,9 +221,9 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Emmraan/ai-skills](https://github.com/Emmraan/ai-skills)<br>
+1. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
-3. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
+3. ⬆️ Pushed undefined commit(s) to [Emmraan/ai-skills](https://github.com/Emmraan/ai-skills)<br>
 4. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
 5. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
 <!--RECENT_ACTIVITY:end-->
