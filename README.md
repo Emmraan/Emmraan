@@ -225,7 +225,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 2. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
 3. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
 4. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
-5. ⬆️ Pushed undefined commit(s) to [Emmraan/ai-skills](https://github.com/Emmraan/ai-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
