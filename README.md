@@ -221,8 +221,9 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)<br>
-2. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
+1. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
+2. ⭐ Starred [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)<br>
+3. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
