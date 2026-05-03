@@ -221,10 +221,11 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)<br>
-2. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
-3. ⭐ Starred [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)<br>
-4. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
+1. ⭐ Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)<br>
+2. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)<br>
+3. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
+4. ⭐ Starred [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)<br>
+5. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
