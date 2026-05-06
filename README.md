@@ -221,11 +221,11 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [antonio-orionus/Arroxy](https://github.com/antonio-orionus/Arroxy)<br>
-2. ⭐ Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)<br>
-3. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)<br>
-4. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
-5. ⭐ Starred [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)<br>
+1. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
+2. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
+3. ⭐ Starred [antonio-orionus/Arroxy](https://github.com/antonio-orionus/Arroxy)<br>
+4. ⭐ Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)<br>
+5. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
