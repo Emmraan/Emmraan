@@ -221,11 +221,11 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)<br>
-2. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
-3. ⭐ Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)<br>
-4. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
-5. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
+1. ⭐ Starred [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)<br>
+2. ⭐ Starred [codex-team/editor.js](https://github.com/codex-team/editor.js)<br>
+3. ⭐ Starred [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)<br>
+4. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
+5. ⭐ Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
