@@ -221,7 +221,7 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Akash190104/kolkata-bus-route](https://github.com/Akash190104/kolkata-bus-route)<br>
+1. ⭐ Starred [Akash190104/kolkata-travel-router](https://github.com/Akash190104/kolkata-travel-router)<br>
 2. ⭐ Starred [Aejkatappaja/phantom-ui](https://github.com/Aejkatappaja/phantom-ui)<br>
 3. ⭐ Starred [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)<br>
 4. ⭐ Starred [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)<br>
