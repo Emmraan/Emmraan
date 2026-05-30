@@ -221,11 +221,11 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Akash190104/kolkata-travel-router](https://github.com/Akash190104/kolkata-travel-router)<br>
-2. ⭐ Starred [Aejkatappaja/phantom-ui](https://github.com/Aejkatappaja/phantom-ui)<br>
-3. ⭐ Starred [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)<br>
-4. ⭐ Starred [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)<br>
-5. ⭐ Starred [codex-team/editor.js](https://github.com/codex-team/editor.js)<br>
+1. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)<br>
+2. ⭐ Starred [Akash190104/kolkata-travel-router](https://github.com/Akash190104/kolkata-travel-router)<br>
+3. ⭐ Starred [Aejkatappaja/phantom-ui](https://github.com/Aejkatappaja/phantom-ui)<br>
+4. ⭐ Starred [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)<br>
+5. ⭐ Starred [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
