@@ -223,7 +223,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br>
 2. ⭐ Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)<br>
-3. ⭐ Starred [OmarElKadri/notion-proxy](https://github.com/OmarElKadri/notion-proxy)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
