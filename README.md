@@ -221,7 +221,6 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
