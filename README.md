@@ -221,9 +221,10 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui)<br>
-2. ⭐ Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)<br>
-3. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
+1. ⭐ Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)<br>
+2. ⭐ Starred [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui)<br>
+3. ⭐ Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)<br>
+4. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
