@@ -221,11 +221,11 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Emmraan/curl-lab](https://github.com/Emmraan/curl-lab)<br>
-2. ⬆️ Pushed undefined commit(s) to [Emmraan/curl-lab](https://github.com/Emmraan/curl-lab)<br>
-3. ⬆️ Pushed undefined commit(s) to [Emmraan/curl-lab](https://github.com/Emmraan/curl-lab)<br>
-4. ⬆️ Pushed undefined commit(s) to [Emmraan/curl-lab](https://github.com/Emmraan/curl-lab)<br>
-5. ⬆️ Pushed undefined commit(s) to [Emmraan/curl-lab](https://github.com/Emmraan/curl-lab)<br>
+1. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
+2. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
+3. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)<br>
+4. ⭐ Starred [wondelai/skills](https://github.com/wondelai/skills)<br>
+5. ⬆️ Pushed undefined commit(s) to [Emmraan/agent-skills](https://github.com/Emmraan/agent-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
 2. ⬆️ Pushed undefined commit(s) to [Emmraan/Emmraan](https://github.com/Emmraan/Emmraan)<br>
