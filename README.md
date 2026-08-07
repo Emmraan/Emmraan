@@ -221,9 +221,9 @@ I'm a passionate **Full Stack Vibe Coder** with expertise in building and mainta
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [scrapy/scrapy](https://github.com/scrapy/scrapy)<br>
-2. ⭐ Starred [kane50613/takumi](https://github.com/kane50613/takumi)<br>
-3. ⬆️ Pushed undefined commit(s) to [Emmraan/curl-lab](https://github.com/Emmraan/curl-lab)<br>
+1. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
+2. ⭐ Starred [scrapy/scrapy](https://github.com/scrapy/scrapy)<br>
+3. ⭐ Starred [kane50613/takumi](https://github.com/kane50613/takumi)<br>
 4. ⬆️ Pushed undefined commit(s) to [Emmraan/curl-lab](https://github.com/Emmraan/curl-lab)<br>
 5. ⬆️ Pushed undefined commit(s) to [Emmraan/curl-lab](https://github.com/Emmraan/curl-lab)<br>
 <!--RECENT_ACTIVITY:end-->
