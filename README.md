@@ -52,21 +52,21 @@ I'm a passionate **Full Stack Vibe Coder** who thrives on transforming complex p
 
 <!-- Overview -->
 <a href="https://github.com/Emmraan">
-  <img src="assets/svg/analytics-overview.svg" alt="GitHub Analytics overview — commits, pull requests, issues and repositories" width="800">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmraan&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=FF00FF&amp;text_color=c9d1d9&amp;border_radius=12" alt="GitHub Analytics overview — commits, pull requests, issues and repositories" width="450">
 </a>
 
 <br>
 
 <!-- Top Languages -->
 <a href="https://github.com/Emmraan">
-  <img src="assets/svg/analytics-languages.svg" alt="Most used programming languages" width="800">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmraan&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=c9d1d9&amp;border_radius=12" alt="Most used programming languages" width="450">
 </a>
 
 <br>
 
 <!-- Streak -->
 <a href="https://github.com/Emmraan">
-  <img src="assets/svg/analytics-streak.svg" alt="GitHub streak statistics" width="800">
+  <img src="https://streak-stats.demolab.com?user=Emmraan&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D9FF&amp;ring=FF00FF&amp;fire=FFD700&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00D9FF&amp;sideLabels=FF00FF" alt="GitHub streak statistics" width="450">
 </a>
 
 </div>
@@ -99,7 +99,7 @@ I'm a passionate **Full Stack Vibe Coder** who thrives on transforming complex p
 <div align="center">
 
 <a href="https://github.com/Emmraan">
-  <img src="assets/svg/contribution-distribution.svg" alt="Contribution distribution — live GitHub activity graph" width="800">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmraan&amp;custom_title=Contribution%20Graph&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=FF00FF&amp;point=FFD700&amp;area_color=0D1117&amp;hide_border=true" alt="Contribution distribution — live GitHub activity graph" width="800">
 </a>
 
 </div>
