@@ -81,11 +81,11 @@
 
   <!-- Roles with non-overlapping crossfade (only one role visible per line at a time) -->
   <g font-family="Fira Code, monospace" font-size="20" text-anchor="middle">
-    <text x="600" y="340" fill="#00D9FF" opacity="0">
+    <text x="600" y="340" fill="#00D9FF" opacity="1">
       <tspan>&lt;Full Stack Vibe Coder /&gt;</tspan>
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.0375;0.4625;0.5" dur="8s" repeatCount="indefinite"/>
     </text>
-    <text x="600" y="375" fill="#FF00FF" opacity="0">
+    <text x="600" y="375" fill="#FF00FF" opacity="1">
       <tspan>AI/ML Enthusiast</tspan>
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0.25;0.2875;0.7125;0.75" dur="8s" repeatCount="indefinite"/>
     </text>
