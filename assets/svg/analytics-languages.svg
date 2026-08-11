@@ -1,0 +1,38 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most used programming languages by Emmraan from the GitHub read me stats API." preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="alBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="alAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF00FF"/>
+      <stop offset="50%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+    <pattern id="alGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#00D9FF" stroke-width="0.4"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#alBg)"/>
+  <rect width="1200" height="400" fill="url(#alGrid)" opacity="0.07"/>
+
+  <!-- Header -->
+  <g>
+    <text x="40" y="48" font-family="Fira Code, monospace" font-size="13" letter-spacing="3" fill="#FF00FF">// TOP LANGUAGES</text>
+    <line x1="220" y1="43" x2="1160" y2="43" stroke="url(#alAccent)" stroke-opacity="0.5" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="0.3;0.7;0.3" dur="4s" begin="1s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Card frame -->
+  <rect x="60" y="75" width="1080" height="290" rx="16" fill="#161B22" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+  <rect x="60" y="75" width="1080" height="290" rx="16" fill="none" stroke="#FF00FF" stroke-width="1.5" opacity="0.4">
+    <animate attributeName="opacity" values="0.15;0.6;0.15" dur="5s" begin="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="60" y="75" width="1080" height="4" rx="2" fill="url(#alAccent)"/>
+
+  <!-- Live languages image -->
+  <image href="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmraan&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=c9d1d9&amp;border_radius=12"
+         x="220" y="100" width="760" height="240" preserveAspectRatio="xMidYMid meet"/>
+</svg>

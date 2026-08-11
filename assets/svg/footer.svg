@@ -1,0 +1,57 @@
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer banner with happy coding message and animated gradient wave." preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="ftBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="ftAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF">
+        <animate attributeName="stop-color" values="#00D9FF;#FF00FF;#FFD700;#00D9FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#FF00FF">
+        <animate attributeName="stop-color" values="#FF00FF;#FFD700;#00D9FF;#FF00FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FFD700">
+        <animate attributeName="stop-color" values="#FFD700;#00D9FF;#FF00FF;#FFD700" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <pattern id="ftGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#00D9FF" stroke-width="0.4"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#ftBg)"/>
+  <rect width="1200" height="220" fill="url(#ftGrid)" opacity="0.07"/>
+
+  <!-- Animated wave -->
+  <path d="M0,180 C150,160 350,200 600,180 C850,160 1050,200 1200,180 L1200,220 L0,220 Z" fill="url(#ftAccent)" opacity="0.15">
+    <animate attributeName="d"
+      values="M0,180 C150,160 350,200 600,180 C850,160 1050,200 1200,180 L1200,220 L0,220 Z;
+              M0,180 C150,200 350,160 600,180 C850,200 1050,160 1200,180 L1200,220 L0,220 Z;
+              M0,180 C150,160 350,200 600,180 C850,160 1050,200 1200,180 L1200,220 L0,220 Z"
+      dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Happy coding -->
+  <text x="600" y="110" font-family="Segoe UI, Fira Code, monospace" font-size="44" font-weight="bold" text-anchor="middle" fill="url(#ftAccent)">Happy Coding! 🚀</text>
+
+  <!-- Decorative line -->
+  <line x1="420" y1="140" x2="780" y2="140" stroke="url(#ftAccent)" stroke-width="2.5" stroke-linecap="round">
+    <animate attributeName="x1" values="420;560;420" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="780;640;780" dur="6s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Corners -->
+  <path d="M 30 30 L 90 30 L 90 40 L 40 40 L 40 90 L 30 90 Z" fill="#00D9FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <path d="M 1170 30 L 1110 30 L 1110 40 L 1160 40 L 1160 90 L 1170 90 Z" fill="#FF00FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="4s" begin="1s" repeatCount="indefinite"/>
+  </path>
+  <path d="M 30 190 L 90 190 L 90 180 L 40 180 L 40 130 L 30 130 Z" fill="#FFD700" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="4s" begin="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M 1170 190 L 1110 190 L 1110 180 L 1160 180 L 1160 130 L 1170 130 Z" fill="#00D9FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="4s" begin="3s" repeatCount="indefinite"/>
+  </path>
+</svg>

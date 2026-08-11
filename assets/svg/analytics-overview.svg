@@ -1,0 +1,43 @@
+<svg viewBox="0 0 1200 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Analytics overview for Emmraan, showing live stats such as total commits, pull requests, issues and repositories from the GitHub read me stats API." preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="aoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="aoAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="50%" stop-color="#FF00FF"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+    <radialGradient id="aoGlow" cx="50%" cy="30%" r="55%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="aoGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#00D9FF" stroke-width="0.4"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="460" fill="url(#aoBg)"/>
+  <rect width="1200" height="460" fill="url(#aoGrid)" opacity="0.07"/>
+  <rect width="1200" height="460" fill="url(#aoGlow)"/>
+
+  <!-- Header -->
+  <g>
+    <text x="40" y="48" font-family="Fira Code, monospace" font-size="13" letter-spacing="3" fill="#00D9FF">// GITHUB ANALYTICS</text>
+    <line x1="250" y1="43" x2="1160" y2="43" stroke="url(#aoAccent)" stroke-opacity="0.5" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Card frame -->
+  <rect x="60" y="80" width="1080" height="350" rx="16" fill="#161B22" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+  <rect x="60" y="80" width="1080" height="350" rx="16" fill="none" stroke="#00D9FF" stroke-width="1.5" opacity="0.4">
+    <animate attributeName="opacity" values="0.15;0.6;0.15" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="60" y="80" width="1080" height="4" rx="2" fill="url(#aoAccent)"/>
+
+  <!-- Live stats image -->
+  <image href="https://github-readme-stats.vercel.app/api?username=Emmraan&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=FF00FF&amp;text_color=c9d1d9&amp;border_radius=12"
+         x="200" y="110" width="800" height="290" preserveAspectRatio="xMidYMid meet"/>
+</svg>

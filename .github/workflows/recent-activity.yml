@@ -10,24 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        
-      - name: Update Recent Activity
-        uses: Readme-Workflows/recent-activity@main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate Recent Activity SVG
+        run: node .github/scripts/generate-recent-activity.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          README_FILE: "./README.md"
-          COMMIT_MSG: "⚡ activity: update recent activity section"
-          MAX_LINES: 10
-          
+          GH_USER: ${{ github.repository_owner }}
+
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "⚡ activity: update recent activity section"
-          file_pattern: "README.md"
+          commit_message: "⚡ activity: update recent activity SVG"
+          file_pattern: "assets/svg/recent-activity.svg"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
