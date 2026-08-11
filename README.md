@@ -52,14 +52,14 @@ I'm a passionate **Full Stack Vibe Coder** who thrives on transforming complex p
 
 <!-- Overview -->
 <a href="https://github.com/Emmraan">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmraan&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=FF00FF&amp;text_color=c9d1d9&amp;border_radius=12" alt="GitHub Analytics overview — commits, pull requests, issues and repositories" width="450">
+  <img src="https://github-readme-stats.zcy.dev/api?username=Emmraan&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=FF00FF&amp;text_color=c9d1d9&amp;border_radius=12" alt="GitHub Analytics overview — commits, pull requests, issues and repositories" width="450">
 </a>
 
 <br>
 
 <!-- Top Languages -->
 <a href="https://github.com/Emmraan">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmraan&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=c9d1d9&amp;border_radius=12" alt="Most used programming languages" width="450">
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=Emmraan&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=c9d1d9&amp;border_radius=12" alt="Most used programming languages" width="450">
 </a>
 
 <br>
