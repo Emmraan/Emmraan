@@ -1,0 +1,121 @@
+<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Welcome to Emmraan's GitHub profile. Full Stack Vibe Coder, AI/ML Enthusiast, Cloud Architect, Open Source Contributor. Open to freelance and collaboration." preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="heroNameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF">
+        <animate attributeName="stop-color" values="#00D9FF;#FF00FF;#FFD700;#00D9FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#FF00FF">
+        <animate attributeName="stop-color" values="#FF00FF;#FFD700;#00D9FF;#FF00FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FFD700">
+        <animate attributeName="stop-color" values="#FFD700;#00D9FF;#FF00FF;#FFD700" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <radialGradient id="heroGlow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.10"/>
+      <stop offset="55%" stop-color="#FF00FF" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="heroGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00D9FF" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#heroBg)"/>
+  <rect width="1200" height="420" fill="url(#heroGrid)" opacity="0.08"/>
+  <rect width="1200" height="420" fill="url(#heroGlow)"/>
+
+  <!-- Decorative code brackets -->
+  <text x="60" y="150" font-family="Fira Code, monospace" font-size="180" fill="#00D9FF" opacity="0.12">&lt;/&gt;</text>
+  <text x="1050" y="150" font-family="Fira Code, monospace" font-size="180" fill="#FF00FF" opacity="0.12">{}</text>
+
+  <!-- Floating particles -->
+  <g>
+    <circle cx="180" cy="90" r="3" fill="#00D9FF" opacity="0.8">
+      <animate attributeName="cy" values="90;60;90" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="60" r="2" fill="#FF00FF" opacity="0.8">
+      <animate attributeName="cy" values="60;100;60" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="640" cy="80" r="3" fill="#FFD700" opacity="0.8">
+      <animate attributeName="cy" values="80;50;80" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="60" r="2" fill="#00D9FF" opacity="0.8">
+      <animate attributeName="cy" values="60;90;60" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="100" r="3" fill="#FF00FF" opacity="0.8">
+      <animate attributeName="cy" values="100;70;100" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="70" r="2" fill="#FFD700" opacity="0.8">
+      <animate attributeName="cy" values="70;100;70" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Avatar ring -->
+  <g transform="translate(600,125)">
+    <circle r="56" fill="#0D1117" stroke="#00D9FF" stroke-width="3">
+      <animate attributeName="stroke" values="#00D9FF;#FF00FF;#FFD700;#00D9FF" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="46" fill="#161B22"/>
+    <text y="12" font-family="Fira Code, monospace" font-size="40" font-weight="bold" text-anchor="middle" fill="url(#heroNameGrad)">E</text>
+  </g>
+
+  <!-- Name -->
+  <text x="600" y="245" font-family="Segoe UI, Fira Code, monospace" font-size="58" font-weight="bold" text-anchor="middle" fill="url(#heroNameGrad)">Emmraan</text>
+
+  <!-- Status badge -->
+  <g transform="translate(600,285)">
+    <rect x="-130" y="-16" width="260" height="32" rx="16" fill="#161B22" stroke="#00D9FF" stroke-opacity="0.5" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="-112" cy="0" r="4" fill="#7ee787">
+      <animate attributeName="r" values="4;5.5;4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-96" y="6" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Open to freelance &amp; collaboration</text>
+  </g>
+
+  <!-- Roles with typing-style fade -->
+  <g font-family="Fira Code, monospace" font-size="20" text-anchor="middle">
+    <text x="600" y="340" fill="#00D9FF" opacity="1">
+      <tspan>&lt;Full Stack Vibe Coder /&gt;</tspan>
+      <animate attributeName="opacity" values="1;1;0.35;1" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="375" fill="#FF00FF" opacity="1">
+      <tspan>AI/ML Enthusiast</tspan>
+      <animate attributeName="opacity" values="0.35;1;1;0.35" dur="4s" begin="1.33s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="340" fill="#FFD700" opacity="0">
+      <tspan>Cloud Architect</tspan>
+      <animate attributeName="opacity" values="0;0;0;0;0.35;1;1;0.35" dur="6s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="375" fill="#00D9FF" opacity="0">
+      <tspan>Open Source Contributor</tspan>
+      <animate attributeName="opacity" values="0;0;0;0;0.35;1;1;0.35" dur="6s" begin="0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Decorative corner brackets -->
+  <path d="M 30 30 L 100 30 L 100 42 L 42 42 L 42 100 L 30 100 Z" fill="#00D9FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <path d="M 1170 30 L 1100 30 L 1100 42 L 1158 42 L 1158 100 L 1170 100 Z" fill="#FF00FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="4s" begin="1s" repeatCount="indefinite"/>
+  </path>
+  <path d="M 30 390 L 100 390 L 100 378 L 42 378 L 42 320 L 30 320 Z" fill="#FFD700" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="4s" begin="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M 1170 390 L 1100 390 L 1100 378 L 1158 378 L 1158 320 L 1170 320 Z" fill="#00D9FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="4s" begin="3s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Bottom gradient line -->
+  <line x1="350" y1="410" x2="850" y2="410" stroke="url(#heroNameGrad)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="x1" values="350;520;350" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="850;680;850" dur="6s" repeatCount="indefinite"/>
+  </line>
+</svg>

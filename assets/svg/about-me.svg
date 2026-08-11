@@ -1,0 +1,79 @@
+<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Emmraan. Full Stack Vibe Coder based in India, Asia/Kolkata UTC plus 5:30. Currently focused on building scalable web applications, exploring AI/ML integration, cloud-native architecture, and open source contributions. Life philosophy: code is poetry written in logic. Fun fact: he can debug code faster than he can decide what to eat." preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="aboutAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="50%" stop-color="#FF00FF"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+    <linearGradient id="aboutBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <pattern id="aboutGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#00D9FF" stroke-width="0.4"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#aboutBg)"/>
+  <rect width="1200" height="420" fill="url(#aboutGrid)" opacity="0.07"/>
+
+  <!-- Header -->
+  <g>
+    <text x="40" y="48" font-family="Fira Code, monospace" font-size="13" letter-spacing="3" fill="#FF00FF">// ABOUT ME</text>
+    <line x1="170" y1="43" x2="1160" y2="43" stroke="#FF00FF" stroke-opacity="0.35" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="0.35;0.8;0.35" dur="4s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Left: profile card -->
+  <g>
+    <rect x="40" y="70" width="360" height="320" rx="18" fill="#161B22" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    <rect x="40" y="70" width="360" height="320" rx="18" fill="none" stroke="#00D9FF" stroke-width="1.5" opacity="0.6">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- avatar -->
+    <circle cx="220" cy="140" r="42" fill="#0D1117" stroke="url(#aboutAccent)" stroke-width="3"/>
+    <text x="220" y="158" font-family="Fira Code, monospace" font-size="44" font-weight="bold" text-anchor="middle" fill="url(#aboutAccent)">E</text>
+
+    <text x="220" y="216" font-family="Segoe UI, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#e6edf3">Emmraan</text>
+    <text x="220" y="244" font-family="Fira Code, monospace" font-size="15" text-anchor="middle" fill="#00D9FF">Full Stack Vibe Coder</text>
+
+    <!-- availability pill -->
+    <rect x="140" y="266" width="160" height="28" rx="14" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.6" stroke-width="1"/>
+    <circle cx="162" cy="280" r="3.5" fill="#7ee787">
+      <animate attributeName="r" values="3.5;5;3.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="176" y="285" font-family="Segoe UI, sans-serif" font-size="13.5" fill="#7ee787">Open to work</text>
+
+    <!-- location / timezone -->
+    <text x="220" y="322" font-family="Segoe UI, sans-serif" font-size="14.5" text-anchor="middle" fill="#8b949e">🇮🇳 India · Asia/Kolkata</text>
+    <text x="220" y="348" font-family="Fira Code, monospace" font-size="14" text-anchor="middle" fill="#8b949e">UTC+5:30</text>
+  </g>
+
+  <!-- Right: details -->
+  <g font-family="Segoe UI, sans-serif">
+    <text x="440" y="104" font-size="13" letter-spacing="2" fill="#00D9FF">CURRENT FOCUS</text>
+    <g transform="translate(440,118)">
+      <rect x="0" y="0" width="300" height="34" rx="10" fill="#00D9FF" fill-opacity="0.10" stroke="#00D9FF" stroke-opacity="0.5" stroke-width="1"/>
+      <text x="14" y="22" font-size="14" fill="#c9d1d9">Building scalable web applications</text>
+      <rect x="318" y="0" width="332" height="34" rx="10" fill="#FF00FF" fill-opacity="0.10" stroke="#FF00FF" stroke-opacity="0.5" stroke-width="1"/>
+      <text x="332" y="22" font-size="14" fill="#c9d1d9">Exploring AI/ML integration</text>
+    </g>
+    <g transform="translate(440,166)">
+      <rect x="0" y="0" width="300" height="34" rx="10" fill="#FFD700" fill-opacity="0.10" stroke="#FFD700" stroke-opacity="0.5" stroke-width="1"/>
+      <text x="14" y="22" font-size="14" fill="#c9d1d9">Cloud-native architecture</text>
+      <rect x="318" y="0" width="332" height="34" rx="10" fill="#00D9FF" fill-opacity="0.10" stroke="#00D9FF" stroke-opacity="0.5" stroke-width="1"/>
+      <text x="332" y="22" font-size="14" fill="#c9d1d9">Open source contributions</text>
+    </g>
+
+    <text x="440" y="238" font-size="13" letter-spacing="2" fill="#FF00FF">PHILOSOPHY</text>
+    <rect x="440" y="250" width="650" height="52" rx="12" fill="#161B22" stroke="#FF00FF" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="456" y="274" font-size="16" fill="#e6edf3">"Code is <tspan fill="#FFD700" font-style="italic">poetry</tspan> written in logic"</text>
+    <text x="1080" y="284" font-family="Fira Code, monospace" font-size="14" text-anchor="end" fill="#FF00FF" opacity="0.6">💡</text>
+
+    <text x="440" y="340" font-size="13" letter-spacing="2" fill="#FFD700">FUN FACT</text>
+    <rect x="440" y="352" width="650" height="38" rx="12" fill="#161B22" stroke="#FFD700" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="456" y="376" font-size="14.5" fill="#c9d1d9">I can debug code faster than I can decide what to eat! 🍕</text>
+  </g>
+</svg>
