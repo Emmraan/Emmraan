@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Recent GitHub activity for Emmraan: Pushed commit(s) to Emmraan/Emmraan; Pushed commit(s) to Emmraan/agent-skills; Pushed commit(s) to Emmraan/Emmraan; Pushed commit(s) to Emmraan/agent-skills; Starred Leonxlnx/taste-skill" preserveAspectRatio="xMidYMid meet">
+<svg viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Recent GitHub activity for Emmraan: Pushed commit(s) to Emmraan/agent-skills; Pushed commit(s) to Emmraan/design-skills; Made Emmraan/design-skills public; Pushed commit(s) to Emmraan/Codiq; Pushed commit(s) to Emmraan/Codiq" preserveAspectRatio="xMidYMid meet">
   <defs>
     <linearGradient id="raBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0D1117"/>
@@ -30,8 +30,8 @@
       <rect x="40" y="110" width="1120" height="62" rx="12" fill="#161B22" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
       <rect x="54" y="128" width="40" height="40" rx="10" fill="#00D9FF22" stroke="#00D9FF66" stroke-width="1"/>
       <text x="74" y="154" font-family="Segoe UI, sans-serif" font-size="20" text-anchor="middle">⬆️</text>
-      <text x="112" y="143" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Pushed commit(s) to <tspan fill="#e6edf3" font-weight="bold">Emmraan/Emmraan</tspan></text>
-      <text x="112" y="162" font-family="Fira Code, monospace" font-size="11.5" fill="#00D9FF">19m ago</text>
+      <text x="112" y="143" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Pushed commit(s) to <tspan fill="#e6edf3" font-weight="bold">Emmraan/agent-skills</tspan></text>
+      <text x="112" y="162" font-family="Fira Code, monospace" font-size="11.5" fill="#00D9FF">15h ago</text>
       <text x="1140" y="146" font-family="Fira Code, monospace" font-size="12" fill="#8b949e">↗</text>
     </g>
     <!-- row 2 -->
@@ -39,17 +39,17 @@
       <rect x="40" y="184" width="1120" height="62" rx="12" fill="#161B22" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
       <rect x="54" y="202" width="40" height="40" rx="10" fill="#00D9FF22" stroke="#00D9FF66" stroke-width="1"/>
       <text x="74" y="228" font-family="Segoe UI, sans-serif" font-size="20" text-anchor="middle">⬆️</text>
-      <text x="112" y="217" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Pushed commit(s) to <tspan fill="#e6edf3" font-weight="bold">Emmraan/agent-skills</tspan></text>
-      <text x="112" y="236" font-family="Fira Code, monospace" font-size="11.5" fill="#00D9FF">1h ago</text>
+      <text x="112" y="217" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Pushed commit(s) to <tspan fill="#e6edf3" font-weight="bold">Emmraan/design-skills</tspan></text>
+      <text x="112" y="236" font-family="Fira Code, monospace" font-size="11.5" fill="#00D9FF">1d ago</text>
       <text x="1140" y="220" font-family="Fira Code, monospace" font-size="12" fill="#8b949e">↗</text>
     </g>
     <!-- row 3 -->
     <g>
       <rect x="40" y="258" width="1120" height="62" rx="12" fill="#161B22" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
-      <rect x="54" y="276" width="40" height="40" rx="10" fill="#00D9FF22" stroke="#00D9FF66" stroke-width="1"/>
-      <text x="74" y="302" font-family="Segoe UI, sans-serif" font-size="20" text-anchor="middle">⬆️</text>
-      <text x="112" y="291" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Pushed commit(s) to <tspan fill="#e6edf3" font-weight="bold">Emmraan/Emmraan</tspan></text>
-      <text x="112" y="310" font-family="Fira Code, monospace" font-size="11.5" fill="#00D9FF">42m ago</text>
+      <rect x="54" y="276" width="40" height="40" rx="10" fill="#7ee78722" stroke="#7ee78766" stroke-width="1"/>
+      <text x="74" y="302" font-family="Segoe UI, sans-serif" font-size="20" text-anchor="middle">🎉</text>
+      <text x="112" y="291" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Made <tspan fill="#e6edf3" font-weight="bold">Emmraan/design-skills</tspan> public</text>
+      <text x="112" y="310" font-family="Fira Code, monospace" font-size="11.5" fill="#7ee787">1d ago</text>
       <text x="1140" y="294" font-family="Fira Code, monospace" font-size="12" fill="#8b949e">↗</text>
     </g>
     <!-- row 4 -->
@@ -57,17 +57,17 @@
       <rect x="40" y="332" width="1120" height="62" rx="12" fill="#161B22" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
       <rect x="54" y="350" width="40" height="40" rx="10" fill="#00D9FF22" stroke="#00D9FF66" stroke-width="1"/>
       <text x="74" y="376" font-family="Segoe UI, sans-serif" font-size="20" text-anchor="middle">⬆️</text>
-      <text x="112" y="365" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Pushed commit(s) to <tspan fill="#e6edf3" font-weight="bold">Emmraan/agent-skills</tspan></text>
-      <text x="112" y="384" font-family="Fira Code, monospace" font-size="11.5" fill="#00D9FF">2h ago</text>
+      <text x="112" y="365" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Pushed commit(s) to <tspan fill="#e6edf3" font-weight="bold">Emmraan/Codiq</tspan></text>
+      <text x="112" y="384" font-family="Fira Code, monospace" font-size="11.5" fill="#00D9FF">2d ago</text>
       <text x="1140" y="368" font-family="Fira Code, monospace" font-size="12" fill="#8b949e">↗</text>
     </g>
     <!-- row 5 -->
     <g>
       <rect x="40" y="406" width="1120" height="62" rx="12" fill="#161B22" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
-      <rect x="54" y="424" width="40" height="40" rx="10" fill="#FFD70022" stroke="#FFD70066" stroke-width="1"/>
-      <text x="74" y="450" font-family="Segoe UI, sans-serif" font-size="20" text-anchor="middle">⭐</text>
-      <text x="112" y="439" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Starred <tspan fill="#e6edf3" font-weight="bold">Leonxlnx/taste-skill</tspan></text>
-      <text x="112" y="458" font-family="Fira Code, monospace" font-size="11.5" fill="#FFD700">3d ago</text>
+      <rect x="54" y="424" width="40" height="40" rx="10" fill="#00D9FF22" stroke="#00D9FF66" stroke-width="1"/>
+      <text x="74" y="450" font-family="Segoe UI, sans-serif" font-size="20" text-anchor="middle">⬆️</text>
+      <text x="112" y="439" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">Pushed commit(s) to <tspan fill="#e6edf3" font-weight="bold">Emmraan/Codiq</tspan></text>
+      <text x="112" y="458" font-family="Fira Code, monospace" font-size="11.5" fill="#00D9FF">2d ago</text>
       <text x="1140" y="442" font-family="Fira Code, monospace" font-size="12" fill="#8b949e">↗</text>
     </g>
   </g>
