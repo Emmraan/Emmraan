@@ -34,7 +34,7 @@
 
 <br>
 
-I'm a passionate **Full Stack Vibe Coder** who thrives on transforming complex problems into elegant, scalable solutions — from responsive frontends to robust backends and cloud-native deployments.
+I'm a passionate **Full Stack Developer** who thrives on transforming complex problems into elegant, scalable solutions — from responsive frontends to robust backends and cloud-native deployments.
 
 ---
 

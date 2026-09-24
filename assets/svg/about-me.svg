@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Emmraan. Full Stack Vibe Coder based in India, Asia/Kolkata UTC plus 5:30. Currently focused on building scalable web applications, exploring AI/ML integration, cloud-native architecture, and open source contributions. Life philosophy: code is poetry written in logic. Fun fact: he can debug code faster than he can decide what to eat." preserveAspectRatio="xMidYMid meet">
+<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Emmraan. Full Stack Developer based in India, Asia/Kolkata UTC plus 5:30. Currently focused on building scalable web applications, exploring AI/ML integration, cloud-native architecture, and open source contributions. Life philosophy: code is poetry written in logic. Fun fact: he can debug code faster than he can decide what to eat." preserveAspectRatio="xMidYMid meet">
   <defs>
     <linearGradient id="aboutAccent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00D9FF"/>
@@ -37,7 +37,7 @@
     <text x="220" y="158" font-family="Fira Code, monospace" font-size="44" font-weight="bold" text-anchor="middle" fill="url(#aboutAccent)">E</text>
 
     <text x="220" y="216" font-family="Segoe UI, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#e6edf3">Emmraan</text>
-    <text x="220" y="244" font-family="Fira Code, monospace" font-size="15" text-anchor="middle" fill="#00D9FF">Full Stack Vibe Coder</text>
+    <text x="220" y="244" font-family="Fira Code, monospace" font-size="15" text-anchor="middle" fill="#00D9FF">Full Stack Developer</text>
 
     <!-- availability pill -->
     <rect x="140" y="266" width="160" height="28" rx="14" fill="#00D9FF" fill-opacity="0.12" stroke="#00D9FF" stroke-opacity="0.6" stroke-width="1"/>

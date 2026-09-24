@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Welcome to Emmraan's GitHub profile. Full Stack Vibe Coder, AI/ML Enthusiast, Cloud Architect, Open Source Contributor. Open to freelance and collaboration." preserveAspectRatio="xMidYMid meet">
+<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Welcome to Emmraan's GitHub profile. Full Stack Developer, AI/ML Enthusiast, Cloud Architect, Open Source Contributor. Open to freelance and collaboration." preserveAspectRatio="xMidYMid meet">
   <defs>
     <linearGradient id="heroNameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00D9FF">
@@ -82,7 +82,7 @@
   <!-- Roles with non-overlapping crossfade (only one role visible per line at a time) -->
   <g font-family="Fira Code, monospace" font-size="20" text-anchor="middle">
     <text x="600" y="340" fill="#00D9FF" opacity="1">
-      <tspan>&lt;Full Stack Vibe Coder /&gt;</tspan>
+      <tspan>&lt;Full Stack Developer /&gt;</tspan>
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.0375;0.4625;0.5" dur="8s" repeatCount="indefinite"/>
     </text>
     <text x="600" y="375" fill="#FF00FF" opacity="1">
