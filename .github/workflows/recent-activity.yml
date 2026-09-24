@@ -13,12 +13,12 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Generate Recent Activity SVG
         run: node .github/scripts/generate-recent-activity.mjs
@@ -27,7 +27,7 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
 
       - name: Commit Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "⚡ activity: update recent activity SVG"
           file_pattern: "assets/svg/recent-activity.svg"
